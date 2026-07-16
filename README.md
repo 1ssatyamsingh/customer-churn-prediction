@@ -524,5 +524,3 @@ Run the notebook cells sequentially to:
 
 **Satyam Singh**
 
-Computer Science and Engineering Student
-Interested in Machine Learning, Generative AI, and Software Development.
